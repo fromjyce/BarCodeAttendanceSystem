@@ -35,5 +35,5 @@ If you come across any mistakes in the programs or have any suggestions for impr
 All the programs in this repository are licensed under the MIT License. You can use them for educational purposes and modify them as per your requirements. ***However, I do not take any responsibility for the accuracy or reliability of the programs.***
 
 ## MY SOCIAL PROFILES:
-### [LINKEDIN](https://www.linkedin.com/in/jayashre-%E2%80%8E-932002251/)
+### [LINKEDIN](https://www.linkedin.com/in/jayashrek/)
 
