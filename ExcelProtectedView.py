@@ -1,4 +1,5 @@
 import win32com.client
+
 import pythoncom
 
 def protected_view_excel(path,sheets):  #opensheetsofexcelinprotectedview
